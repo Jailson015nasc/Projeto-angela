@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #fc9d9a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto auto;
+}
+
+
+.logo{
+    background-color: #f9cdad;
+    padding: 40px;
+    width: 9000px;
+    margin: auto;
+    margin-bottom: 4px;
+}
+
+.opcao{
+    text-align: center;
+    
+}
+
+.opcao1, .opcao2, .opcao3{
+       text-decoration: none;
+       padding: 40px;
+       font-size: 32px;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       color: #fff;
+}
+
+.opcao a:hover{
+    text-decoration: underline;
+}
+
+
+
+.logo2{
+    /* background-color: ; */
+    width: 65pc;
+    margin: auto;
+    display: flex;
+    gap: 7px;
+    
+    
+
+}
+
+.introducao{
+   padding-top: 80px;
+}
+
+
+
+.titulo-texto{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: #fff;
+    margin-bottom: 20px;
+    
+}
+.texto{
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #f9cdad;
+    border-radius: 49px;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+    
+}
+
+.titulo-texto1{
+    color: #fff;
+}
+
+/* .logo3{
+    
+} */
+
+.biografia{
+     font-size: 50px;
+     text-align: center;
+     color: #fff;
+     margin-top: 30px;
+     
+
+}
+
+.texto2{
+   color: #fff;
+   text-align: center;
+   font-size: 25px;
+   margin-top: 40px;
+}
+
+/* .img2{
+
+} */
+
+
+.logo4{
+
+}
+.carreira{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 35px;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hr{
+    margin-top: 90px;
+    width: 1500px;
+}
+
+.texto3{
+    color: #fff;
+    font-size: 25px;
+    margin-top: 20px;
+    text-align: center;
+    
+    
+}
+
+.logo5{
+     
+}
+
+.contribuiçoes{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 35px;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.texto4{
+    color: #fff;
+    font-size: 25px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.letra1{
+    margin-bottom: 20px;
+}
+
+footer{
+    /* background-color: #f9cdad; */
+}
+
+footer{
+    background-color: #f9cdad;
+    padding: 20px;
+    width: 100vw;
+    margin-top: 20px;
+}
+
+.fdm{
+    color: #fff;
+    margin-top: 90px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.nasc{
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+
+
